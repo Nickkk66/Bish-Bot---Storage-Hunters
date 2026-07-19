@@ -1,0 +1,87 @@
+{
+  "profiles": {
+    "default": {
+      "bid_box": {
+        "left": 653,
+        "top": 858,
+        "width": 615,
+        "height": 115
+      },
+      "bid_xy": [
+        952,
+        914
+      ],
+      "track": {
+        "left": 606,
+        "top": 791,
+        "width": 696,
+        "height": 60
+      },
+      "lead_ms": 25.0,
+      "mode": "outline",
+      "outline_min_run": 120,
+      "click_hold_ms": 40
+    },
+    "scrap garage": {
+      "bid_box": {
+        "left": 658,
+        "top": 862,
+        "width": 604,
+        "height": 103
+      },
+      "bid_xy": [
+        960,
+        913
+      ],
+      "track": {
+        "left": 622,
+        "top": 622,
+        "width": 679,
+        "height": 76
+      },
+      "lead_ms": 25.0,
+      "mode": "outline",
+      "outline_min_run": 120,
+      "click_hold_ms": 45,
+      "cue_bright": 200,
+      "calibrated_at": 1784351522.5097337,
+      "toggle_vk": 70,
+      "auction_key_on": true,
+      "fish_key_on": true,
+      "fish_accel": 900.0,
+      "fish_deadband": 4.0,
+      "fish_vk": 82,
+      "fish_box": {
+        "left": 570,
+        "top": 821,
+        "width": 781,
+        "height": 83
+      },
+      "stop_after_s": 10,
+      "auto_stop": true
+    },
+    "shop front": {
+      "bid_box": {
+        "left": 655,
+        "top": 857,
+        "width": 611,
+        "height": 115
+      },
+      "track": {
+        "left": 609,
+        "top": 787,
+        "width": 702,
+        "height": 67
+      },
+      "bid_xy": [
+        960,
+        914
+      ],
+      "lead_ms": 25.0,
+      "mode": "timing",
+      "outline_min_run": 120,
+      "click_hold_ms": 40
+    }
+  },
+  "active": "scrap garage"
+}
