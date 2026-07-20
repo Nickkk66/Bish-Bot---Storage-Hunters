@@ -27,9 +27,9 @@ unattended for hours.
 
 ## Demo
 
-<video src="https://github.com/Nickkk66/bid-bar-bot/raw/main/demo.mp4" controls width="100%"></video>
+<video src="https://github.com/Nickkk66/Bish-Bot---Storage-Hunters/raw/main/demo.mp4" controls width="100%"></video>
 
-If the video doesn't load, [watch it here](https://github.com/Nickkk66/bid-bar-bot/raw/main/demo.mp4).
+If the video doesn't load, [watch it here](https://github.com/Nickkk66/Bish-Bot---Storage-Hunters/raw/main/demo.mp4).
 
 ## What you need
 

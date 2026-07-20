@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Probe output — regenerated on every run, not source
+fishprobe.png
+fishprobe_full.png
+cue_peak.png
+
+# Demo build leftovers
+_ffmpeg.log
